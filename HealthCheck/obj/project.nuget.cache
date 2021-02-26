@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jn1yfU6NxsrndHogvVKfT7jgTUGyIMZJtPlTqWe5hnX6UllPw3DVlHTaPeHlxjzw5gOJ/w+su1zXB+J7/tPIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackp\\Projects\\HealthCheck\\HealthCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.3\\microsoft.aspnetcore.spaservices.extensions.5.0.3.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
